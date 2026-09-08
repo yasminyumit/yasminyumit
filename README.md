@@ -3,6 +3,9 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 # Yasmin Yumi Tsunokawa
+## A imaginação é fascinante, principalmente assuntos que envolvem suspense, documentários e ficção científica. Neles é explorado a extrema importância em manter a mente curiosa.  
+A curiosidade me levou ao universo dos dados. No qual, tive a oportunidade de desenvolver a capacidade técnica analítica de compreender, manipular, modelar, consultar, analisar e visualizar dados que possuem padrões para gerar resultados realistas no negócio com métricas assertivas. Além de estar aprofundando meus estudos em práticas de automação de tarefas no dia a dia.
+
 **` Data Science Student · Builder · Problem Solver`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-yumi-tsunokawa-359569303)
@@ -49,7 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap"/>
 </p>
 
-### 🎨 Design & Ferramentas
+**` 🎨 Design & Ferramentas`**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
