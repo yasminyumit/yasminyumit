@@ -4,7 +4,6 @@
 
 # Yasmin Yumi Tsunokawa
 
-A imaginação é fascinante, principalmente assuntos que envolvem suspense, documentários e ficção científica. Neles é explorado a extrema importância em manter a mente curiosa.  
 A curiosidade me levou ao universo dos dados. No qual, tive a oportunidade de desenvolver a capacidade técnica analítica de compreender, manipular, modelar, consultar, analisar e visualizar dados que possuem padrões para gerar resultados realistas no negócio com métricas assertivas. Além de estar aprofundando meus estudos em práticas de automação de tarefas no dia a dia.
 
 **` Data Science Student · Builder · Problem Solver`**
