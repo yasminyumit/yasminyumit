@@ -20,7 +20,7 @@
 
 ## 🛠️ Stack & Ferramentas
 
-### 📊 Data Science & Analytics
+**` 📊 Data Science & Analytics`**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib"/>
@@ -30,15 +30,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" title="Jupyter"/>
 </p>
-### 🗄️ Banco de Dados
+
+**`🗄️Banco de Dados`**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40" title="Firebase"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg" width="40" height="40" title="Supabase"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" title="SQLDeveloper"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" title="SQLServer"/>
 </p>
 
-### 💻 Desenvolvimento
+**` 💻 Desenvolvimento`**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
